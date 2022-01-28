@@ -1,5 +1,6 @@
 <?php
 
+set_time_limit(0);
 include 'Messages.php';
 
 if (isset($_GET['token'])) {
