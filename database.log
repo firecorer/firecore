@@ -1,0 +1,219 @@
+PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''2000'' at line 1 in C:\OpenServer\domains\type.me\Api\Database.php:11
+Stack trace:
+#0 C:\OpenServer\domains\type.me\Api\Database.php(11): PDOStatement->execute()
+#1 C:\OpenServer\domains\type.me\Api\Messages.php(56): execQuery()
+#2 C:\OpenServer\domains\type.me\test.php(5): getMessages()
+#3 {main}PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''2000'' at line 1 in C:\OpenServer\domains\type.me\Api\Database.php:11
+Stack trace:
+#0 C:\OpenServer\domains\type.me\Api\Database.php(11): PDOStatement->execute()
+#1 C:\OpenServer\domains\type.me\Api\Messages.php(56): execQuery()
+#2 C:\OpenServer\domains\type.me\test.php(5): getMessages()
+#3 {main}PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\OpenServer\domains\type.me\Api\Database.php:11
+Stack trace:
+#0 C:\OpenServer\domains\type.me\Api\Database.php(11): PDOStatement->execute()
+#1 C:\OpenServer\domains\type.me\Api\Messages.php(56): execQuery()
+#2 C:\OpenServer\domains\type.me\test.php(5): getMessages()
+#3 {main}PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\OpenServer\domains\type.me\Api\Database.php:11
+Stack trace:
+#0 C:\OpenServer\domains\type.me\Api\Database.php(11): PDOStatement->execute()
+#1 C:\OpenServer\domains\type.me\Api\Messages.php(56): execQuery()
+#2 C:\OpenServer\domains\type.me\test.php(5): getMessages()
+#3 {main}PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\OpenServer\domains\type.me\Api\Database.php:11
+Stack trace:
+#0 C:\OpenServer\domains\type.me\Api\Database.php(11): PDOStatement->execute()
+#1 C:\OpenServer\domains\type.me\Api\Messages.php(56): execQuery()
+#2 C:\OpenServer\domains\type.me\test.php(5): getMessages()
+#3 {main}PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\OpenServer\domains\type.me\Api\Database.php:11
+Stack trace:
+#0 C:\OpenServer\domains\type.me\Api\Database.php(11): PDOStatement->execute()
+#1 C:\OpenServer\domains\type.me\Api\Messages.php(56): execQuery()
+#2 C:\OpenServer\domains\type.me\test.php(5): getMessages()
+#3 {main}PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\OpenServer\domains\type.me\Api\Database.php:11
+Stack trace:
+#0 C:\OpenServer\domains\type.me\Api\Database.php(11): PDOStatement->execute()
+#1 C:\OpenServer\domains\type.me\Api\Messages.php(56): execQuery()
+#2 C:\OpenServer\domains\type.me\test.php(5): getMessages()
+#3 {main}PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\OpenServer\domains\type.me\Api\Database.php:11
+Stack trace:
+#0 C:\OpenServer\domains\type.me\Api\Database.php(11): PDOStatement->execute()
+#1 C:\OpenServer\domains\type.me\Api\Messages.php(56): execQuery()
+#2 C:\OpenServer\domains\type.me\test.php(5): getMessages()
+#3 {main}PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\OpenServer\domains\type.me\Api\Database.php:11
+Stack trace:
+#0 C:\OpenServer\domains\type.me\Api\Database.php(11): PDOStatement->execute()
+#1 C:\OpenServer\domains\type.me\Api\Messages.php(56): execQuery()
+#2 C:\OpenServer\domains\type.me\test.php(5): getMessages()
+#3 {main}PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\OpenServer\domains\type.me\Api\Database.php:11
+Stack trace:
+#0 C:\OpenServer\domains\type.me\Api\Database.php(11): PDOStatement->execute()
+#1 C:\OpenServer\domains\type.me\Api\Messages.php(56): execQuery()
+#2 C:\OpenServer\domains\type.me\test.php(5): getMessages()
+#3 {main}PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\OpenServer\domains\type.me\Api\Database.php:11
+Stack trace:
+#0 C:\OpenServer\domains\type.me\Api\Database.php(11): PDOStatement->execute()
+#1 C:\OpenServer\domains\type.me\Api\Messages.php(56): execQuery()
+#2 C:\OpenServer\domains\type.me\test.php(5): getMessages()
+#3 {main}PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\OpenServer\domains\type.me\Api\Database.php:11
+Stack trace:
+#0 C:\OpenServer\domains\type.me\Api\Database.php(11): PDOStatement->execute()
+#1 C:\OpenServer\domains\type.me\Api\Messages.php(56): execQuery()
+#2 C:\OpenServer\domains\type.me\test.php(5): getMessages()
+#3 {main}PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\OpenServer\domains\type.me\Api\Database.php:11
+Stack trace:
+#0 C:\OpenServer\domains\type.me\Api\Database.php(11): PDOStatement->execute()
+#1 C:\OpenServer\domains\type.me\Api\Messages.php(56): execQuery()
+#2 C:\OpenServer\domains\type.me\test.php(5): getMessages()
+#3 {main}PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\OpenServer\domains\type.me\Api\Database.php:11
+Stack trace:
+#0 C:\OpenServer\domains\type.me\Api\Database.php(11): PDOStatement->execute()
+#1 C:\OpenServer\domains\type.me\Api\Messages.php(56): execQuery()
+#2 C:\OpenServer\domains\type.me\test.php(5): getMessages()
+#3 {main}PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\OpenServer\domains\type.me\Api\Database.php:11
+Stack trace:
+#0 C:\OpenServer\domains\type.me\Api\Database.php(11): PDOStatement->execute()
+#1 C:\OpenServer\domains\type.me\Api\Messages.php(56): execQuery()
+#2 C:\OpenServer\domains\type.me\test.php(5): getMessages()
+#3 {main}PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\OpenServer\domains\type.me\Api\Database.php:11
+Stack trace:
+#0 C:\OpenServer\domains\type.me\Api\Database.php(11): PDOStatement->execute()
+#1 C:\OpenServer\domains\type.me\Api\Messages.php(56): execQuery()
+#2 C:\OpenServer\domains\type.me\test.php(5): getMessages()
+#3 {main}PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\OpenServer\domains\type.me\Api\Database.php:11
+Stack trace:
+#0 C:\OpenServer\domains\type.me\Api\Database.php(11): PDOStatement->execute()
+#1 C:\OpenServer\domains\type.me\Api\Messages.php(56): execQuery()
+#2 C:\OpenServer\domains\type.me\test.php(5): getMessages()
+#3 {main}PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\OpenServer\domains\type.me\Api\Database.php:11
+Stack trace:
+#0 C:\OpenServer\domains\type.me\Api\Database.php(11): PDOStatement->execute()
+#1 C:\OpenServer\domains\type.me\Api\Messages.php(56): execQuery()
+#2 C:\OpenServer\domains\type.me\test.php(5): getMessages()
+#3 {main}PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\OpenServer\domains\type.me\Api\Database.php:11
+Stack trace:
+#0 C:\OpenServer\domains\type.me\Api\Database.php(11): PDOStatement->execute()
+#1 C:\OpenServer\domains\type.me\Api\Messages.php(56): execQuery()
+#2 C:\OpenServer\domains\type.me\test.php(5): getMessages()
+#3 {main}PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\OpenServer\domains\type.me\Api\Database.php:11
+Stack trace:
+#0 C:\OpenServer\domains\type.me\Api\Database.php(11): PDOStatement->execute()
+#1 C:\OpenServer\domains\type.me\Api\Messages.php(56): execQuery()
+#2 C:\OpenServer\domains\type.me\test.php(5): getMessages()
+#3 {main}PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\OpenServer\domains\type.me\Api\Database.php:11
+Stack trace:
+#0 C:\OpenServer\domains\type.me\Api\Database.php(11): PDOStatement->execute()
+#1 C:\OpenServer\domains\type.me\Api\Messages.php(56): execQuery()
+#2 C:\OpenServer\domains\type.me\test.php(5): getMessages()
+#3 {main}PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\OpenServer\domains\type.me\Api\Database.php:11
+Stack trace:
+#0 C:\OpenServer\domains\type.me\Api\Database.php(11): PDOStatement->execute()
+#1 C:\OpenServer\domains\type.me\Api\Messages.php(56): execQuery()
+#2 C:\OpenServer\domains\type.me\test.php(5): getMessages()
+#3 {main}PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\OpenServer\domains\type.me\Api\Database.php:11
+Stack trace:
+#0 C:\OpenServer\domains\type.me\Api\Database.php(11): PDOStatement->execute()
+#1 C:\OpenServer\domains\type.me\Api\Messages.php(56): execQuery()
+#2 C:\OpenServer\domains\type.me\test.php(5): getMessages()
+#3 {main}PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\OpenServer\domains\type.me\Api\Database.php:11
+Stack trace:
+#0 C:\OpenServer\domains\type.me\Api\Database.php(11): PDOStatement->execute()
+#1 C:\OpenServer\domains\type.me\Api\Messages.php(56): execQuery()
+#2 C:\OpenServer\domains\type.me\test.php(5): getMessages()
+#3 {main}PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\OpenServer\domains\type.me\Api\Database.php:11
+Stack trace:
+#0 C:\OpenServer\domains\type.me\Api\Database.php(11): PDOStatement->execute()
+#1 C:\OpenServer\domains\type.me\Api\Messages.php(56): execQuery()
+#2 C:\OpenServer\domains\type.me\test.php(5): getMessages()
+#3 {main}PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\OpenServer\domains\type.me\Api\Database.php:11
+Stack trace:
+#0 C:\OpenServer\domains\type.me\Api\Database.php(11): PDOStatement->execute()
+#1 C:\OpenServer\domains\type.me\Api\Messages.php(56): execQuery()
+#2 C:\OpenServer\domains\type.me\test.php(5): getMessages()
+#3 {main}PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\OpenServer\domains\type.me\Api\Database.php:11
+Stack trace:
+#0 C:\OpenServer\domains\type.me\Api\Database.php(11): PDOStatement->execute()
+#1 C:\OpenServer\domains\type.me\Api\Messages.php(56): execQuery()
+#2 C:\OpenServer\domains\type.me\test.php(5): getMessages()
+#3 {main}PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\OpenServer\domains\type.me\Api\Database.php:11
+Stack trace:
+#0 C:\OpenServer\domains\type.me\Api\Database.php(11): PDOStatement->execute()
+#1 C:\OpenServer\domains\type.me\Api\Messages.php(56): execQuery()
+#2 C:\OpenServer\domains\type.me\test.php(5): getMessages()
+#3 {main}PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\OpenServer\domains\type.me\Api\Database.php:11
+Stack trace:
+#0 C:\OpenServer\domains\type.me\Api\Database.php(11): PDOStatement->execute()
+#1 C:\OpenServer\domains\type.me\Api\Messages.php(56): execQuery()
+#2 C:\OpenServer\domains\type.me\test.php(5): getMessages()
+#3 {main}PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\OpenServer\domains\type.me\Api\Database.php:11
+Stack trace:
+#0 C:\OpenServer\domains\type.me\Api\Database.php(11): PDOStatement->execute()
+#1 C:\OpenServer\domains\type.me\Api\Messages.php(56): execQuery()
+#2 C:\OpenServer\domains\type.me\test.php(5): getMessages()
+#3 {main}PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\OpenServer\domains\type.me\Api\Database.php:11
+Stack trace:
+#0 C:\OpenServer\domains\type.me\Api\Database.php(11): PDOStatement->execute()
+#1 C:\OpenServer\domains\type.me\Api\Messages.php(56): execQuery()
+#2 C:\OpenServer\domains\type.me\test.php(5): getMessages()
+#3 {main}PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\OpenServer\domains\type.me\Api\Database.php:11
+Stack trace:
+#0 C:\OpenServer\domains\type.me\Api\Database.php(11): PDOStatement->execute()
+#1 C:\OpenServer\domains\type.me\Api\Messages.php(54): execQuery()
+#2 C:\OpenServer\domains\type.me\test.php(5): getMessages()
+#3 {main}PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\OpenServer\domains\type.me\Api\Database.php:11
+Stack trace:
+#0 C:\OpenServer\domains\type.me\Api\Database.php(11): PDOStatement->execute()
+#1 C:\OpenServer\domains\type.me\Api\Messages.php(54): execQuery()
+#2 C:\OpenServer\domains\type.me\test.php(5): getMessages()
+#3 {main}PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\OpenServer\domains\type.me\Api\Database.php:11
+Stack trace:
+#0 C:\OpenServer\domains\type.me\Api\Database.php(11): PDOStatement->execute()
+#1 C:\OpenServer\domains\type.me\Api\Messages.php(54): execQuery()
+#2 C:\OpenServer\domains\type.me\test.php(5): getMessages()
+#3 {main}PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\OpenServer\domains\type.me\Api\Database.php:11
+Stack trace:
+#0 C:\OpenServer\domains\type.me\Api\Database.php(11): PDOStatement->execute()
+#1 C:\OpenServer\domains\type.me\Api\Messages.php(54): execQuery()
+#2 C:\OpenServer\domains\type.me\test.php(5): getMessages()
+#3 {main}PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\OpenServer\domains\type.me\Api\Database.php:11
+Stack trace:
+#0 C:\OpenServer\domains\type.me\Api\Database.php(11): PDOStatement->execute()
+#1 C:\OpenServer\domains\type.me\Api\Messages.php(54): execQuery()
+#2 C:\OpenServer\domains\type.me\test.php(5): getMessages()
+#3 {main}PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\OpenServer\domains\type.me\Api\Database.php:11
+Stack trace:
+#0 C:\OpenServer\domains\type.me\Api\Database.php(11): PDOStatement->execute()
+#1 C:\OpenServer\domains\type.me\Api\Messages.php(54): execQuery()
+#2 C:\OpenServer\domains\type.me\test.php(6): getMessages()
+#3 {main}PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\OpenServer\domains\type.me\Api\Database.php:11
+Stack trace:
+#0 C:\OpenServer\domains\type.me\Api\Database.php(11): PDOStatement->execute()
+#1 C:\OpenServer\domains\type.me\Api\Messages.php(54): execQuery()
+#2 C:\OpenServer\domains\type.me\test.php(5): getMessages()
+#3 {main}PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\OpenServer\domains\type.me\Api\Database.php:11
+Stack trace:
+#0 C:\OpenServer\domains\type.me\Api\Database.php(11): PDOStatement->execute()
+#1 C:\OpenServer\domains\type.me\Api\Messages.php(54): execQuery()
+#2 C:\OpenServer\domains\type.me\test.php(5): getMessages()
+#3 {main}PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in C:\OpenServer\domains\type.me\Api\Database.php:11
+Stack trace:
+#0 C:\OpenServer\domains\type.me\Api\Database.php(11): PDOStatement->execute()
+#1 C:\OpenServer\domains\type.me\Api\Messages.php(54): execQuery()
+#2 C:\OpenServer\domains\type.me\test.php(5): getMessages()
+#3 {main}PDOException: SQLSTATE[HY000] [2002] Обычно разрешается только одно использование адреса сокета (протокол/сетевой адрес/порт) in C:\OpenServer\domains\type.me\Api\Database.php:9
+Stack trace:
+#0 C:\OpenServer\domains\type.me\Api\Database.php(9): PDO->__construct()
+#1 C:\OpenServer\domains\type.me\Api\Messages.php(11): execQuery()
+#2 C:\OpenServer\domains\type.me\Api\Messages.php(66): getInfoByToken()
+#3 C:\OpenServer\domains\type.me\Api\Lp.php(18): getLastMessage()
+#4 {main}PDOException: SQLSTATE[HY000] [2002] Обычно разрешается только одно использование адреса сокета (протокол/сетевой адрес/порт) in C:\OpenServer\domains\type.me\Api\Database.php:9
+Stack trace:
+#0 C:\OpenServer\domains\type.me\Api\Database.php(9): PDO->__construct()
+#1 C:\OpenServer\domains\type.me\Api\Messages.php(11): execQuery()
+#2 C:\OpenServer\domains\type.me\Api\Messages.php(47): getInfoByToken()
+#3 C:\OpenServer\domains\type.me\Api\Lp.php(18): getMessages()
+#4 {main}PDOException: SQLSTATE[HY000] [2002] Обычно разрешается только одно использование адреса сокета (протокол/сетевой адрес/порт) in C:\OpenServer\domains\type.me\Api\Database.php:9
+Stack trace:
+#0 C:\OpenServer\domains\type.me\Api\Database.php(9): PDO->__construct()
+#1 C:\OpenServer\domains\type.me\Api\Messages.php(11): execQuery()
+#2 C:\OpenServer\domains\type.me\Api\Messages.php(47): getInfoByToken()
+#3 C:\OpenServer\domains\type.me\Api\Lp.php(18): getMessages()
+#4 {main}
